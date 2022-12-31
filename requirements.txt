@@ -1,0 +1,7 @@
+pandas
+sklearn
+numpy
+tensorflow
+matlplotlib
+scipy
+patchify
